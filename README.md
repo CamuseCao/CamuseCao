@@ -1,8 +1,8 @@
 I'm CamuseCao Learning physics in IOP
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=stone-zeng&show_icons=true)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=CamuseCao&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stone-zeng&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CamuseCao&layout=compact)
 
 
 
